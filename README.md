@@ -6,15 +6,15 @@
 <h1 align="center">👋 Hey there, I'm Chaithra Reddy Pasunuru!</h1>
 
 <p align="center">
-  <em>Graduate Student in Computer Science @ George Mason University 🎓</em>
+  <em>Graduate Student in Computer Science at George Mason University 🎓 (January 2024 - May 2026)</em><br>
+  <strong>Building scalable software systems · Full-Stack · Cloud Infra · Applied AI/ML</strong>
 </p>
-
 ---
 
 ### 😅 A little about me
 > “Apparently everyone has a cool GitHub profile now... so here I am — peer-pressured into building mine, but I’m working on it 😎.”
 
-- 💻 **Graduate Teaching Assistant** for IT 105  
+- 💻 **Graduate Teaching Assistant** &  **Graduate Researcher**
 - 🤖 Passionate about **Software Development**, **AI/ML**, **Full-Stack Engineering**, and **Cloud (AWS)**  
 - 🌱 Currently exploring **AWS**, **System Design**, and **MLOps Pipelines**  
 - 🚀 I enjoy turning data, models, and research into **production-ready applications**
