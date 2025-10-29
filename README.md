@@ -66,7 +66,6 @@
 
 ### 🌐 Connect with me
 <p align="center">
-  <a href="mailto:chaithrareddypasunuru@gmail.com"><img src="https://img.shields.io/badge/Gmail-chaithrareddypasunuru%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/chaithrareddy"><img src="https://img.shields.io/badge/LinkedIn-chaithra%20reddy%20pasunuru-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
